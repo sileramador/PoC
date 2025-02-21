@@ -10,7 +10,7 @@
 181.55.128.235 - Bogotá
 181.55.147.23 - Bogotá
 181.56.120.78 - Bucaramanga
-181.58.21.248 - Desconocida
+181.58.21.248 - Pereira
 181.58.158.174 - Manizales
 181.59.52.200 - Bogotá
 181.60.87.18 - Armenia
